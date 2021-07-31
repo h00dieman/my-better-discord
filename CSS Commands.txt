@@ -1,0 +1,10 @@
+div.overflow-WK9Ogt { color: rgb(255, 238, 0); font-size:105%;}
+svg.icon-1DeIlz {color: rgb(38, 199, 38);}
+div.item-PXvHYJ.themed-OHr7kt {color: rgb(255, 238, 0); font-size:95%;}
+h1 {color: rgb(255, 0, 0);}
+div.header-2RyJ0Y {color: rgb(255, 123, 0); font-size:90%;}
+div.markup-2BOw-j.messageContent-2qWWxC {color: rgb(81, 255, 0); font-size:100%}
+span.username-1A8OIy.desaturateUserColors-1gar-1.clickable-1bVtEA {color: rgb(255, 208, 0); font-size:100%}
+div.activityText-yGKsKm {font-size: 120%;}
+span.roleColor-rz2vM0.desaturateUserColors-1gar-1{font-size: 120%;}
+h1.name-1jkAdW{font-size: 105%;}
