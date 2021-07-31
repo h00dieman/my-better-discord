@@ -1,0 +1,7 @@
+{
+    "infos": {},
+    "settings": {
+        "afterInstall": "enable",
+        "previewType": "inApp"
+    }
+}

@@ -1,0 +1,17 @@
+{
+	"changeLogs": {
+		"BDFDB": "1.7.9",
+		"FriendNotifications": "1.7.5",
+		"GoogleTranslateOption": "2.2.7",
+		"ImageUtilities": "4.4.5",
+		"Translator": "2.3.0"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	}
+}
